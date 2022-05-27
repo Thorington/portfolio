@@ -17,7 +17,7 @@ nav a:link, nav a:visited, nav a:hover, nav a:active {
 
 }
 
-nav {
+.navbar {
   width: 200px;
   height: 100%;
   margin: 2%;
@@ -31,7 +31,6 @@ nav {
   z-index: 1;
   top: 0; 
   left: 0;
-  float: left;
 }
 
 .portfolio {
@@ -48,9 +47,12 @@ ol {
   list-style-position: inside;
 }
 
-
 ul {
   list-style-type: circle;
   list-style-position: inside;
 }
 
+.avatar-shape {
+  border-radius: 50%;
+  object-fit: cover;
+}
