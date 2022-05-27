@@ -35,9 +35,22 @@ nav {
 }
 
 .portfolio {
-  margin-left: 35%;
+  margin-left: 20%;
   max-width: 100%;
+  text-align: left;
   height: auto;
   width: auto\9; 
   position: relative;
 }
+
+ol {
+  list-style-type:lower-roman;
+  list-style-position: inside;
+}
+
+
+ul {
+  list-style-type: circle;
+  list-style-position: inside;
+}
+
