@@ -1,12 +1,12 @@
 body {
   font-family:sans-serif;
-  margin: 2%;
+  margin: 5%;
   background-color: rgb(221, 228, 252);
   padding: 2%;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-a:link, a:visited, a:hover, a:active {
+nav a:link, nav a:visited, nav a:hover, nav a:active {
   color: hotpink;
   background-color:aliceblue;
   border-radius: 25px;
@@ -19,17 +19,27 @@ a:link, a:visited, a:hover, a:active {
 
 nav {
   width: 200px;
+  height: 100%;
+  margin: 2%;
   align-content: center;
   color: white;
   text-align: center;
-  border: 5px solid white;
+  border: none;
   /* background-color: aliceblue; */
   padding: 2%;
   box-sizing: border-box;
   position: fixed;
+  z-index: 1;
+  top: 0; 
+  left: 0;
   float: left;
-  height: 800px;
-
 }
 
-
+.portfolio {
+  margin-left: 35%;
+  margin-top: 5%;
+  max-width: 100%;
+  height: auto;
+  width: auto\9; /* ie8 */
+  position: relative;
+}
