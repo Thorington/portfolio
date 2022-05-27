@@ -70,3 +70,14 @@ p.indent {
   width: auto\9; 
   position: relative;
 }
+
+.heart-float-right{
+  float: right;
+  margin-left: 25%;
+}
+
+.column {
+  width: 30%;
+  float: left;
+  padding: 5px;
+}
