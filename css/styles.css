@@ -1,38 +1,34 @@
 body {
   font-family:sans-serif;
-  margin: 10%;
+  margin: 2%;
   background-color: rgb(221, 228, 252);
   padding: 2%;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
-a:link {
+a:link, a:visited, a:hover, a:active {
   color: hotpink;
-}
+  background-color:aliceblue;
+  border-radius: 25px;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
 
-a:visited {
-  color: hotpink;
 }
-
-a:hover {
-  color: hotpink;
-}
-
-a:active {
-  color: hotpink;
-}
-
 
 nav {
-  width: 20%;
+  width: 200px;
   align-content: center;
-  color: rgb(0, 0, 0);
+  color: white;
   text-align: center;
   border: 5px solid white;
-  background-color: aliceblue;
+  /* background-color: aliceblue; */
   padding: 2%;
   box-sizing: border-box;
-  position: absolute;
+  position: fixed;
+  float: left;
+  height: 800px;
 
 }
 
