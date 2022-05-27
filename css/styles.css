@@ -6,6 +6,23 @@ body {
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+a:link {
+  color: hotpink;
+}
+
+a:visited {
+  color: hotpink;
+}
+
+a:hover {
+  color: hotpink;
+}
+
+a:active {
+  color: hotpink;
+}
+
+
 nav {
   width: 20%;
   align-content: center;
@@ -18,4 +35,5 @@ nav {
   position: absolute;
 
 }
+
 
