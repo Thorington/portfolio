@@ -14,6 +14,7 @@ nav a:link, nav a:visited, nav a:hover, nav a:active {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  box-sizing: border-box;
 
 }
 
@@ -58,4 +59,5 @@ ul {
   border:solid aliceblue;
   padding: 10px;
   border-width: 10px;
+  box-sizing: border-box;
 }
