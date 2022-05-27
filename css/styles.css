@@ -1,0 +1,21 @@
+body {
+  font-family:sans-serif;
+  margin: 2%;
+  background-color: rgb(221, 228, 252);
+  padding: 2%;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav {
+  width: 20%;
+  align-content: center;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  border: 5px solid white;
+  background-color: aliceblue;
+  padding: 2%;
+  box-sizing: border-box;
+  position: absolute;
+
+}
+
