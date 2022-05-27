@@ -1,8 +1,9 @@
-# _Portfolio Landing Page_
+# _Indepedent Project #1: Portfolio Landing Page_
 
-#### By _**Claire Thorington**_
+#### Contributors: _**Claire Thorington**_
 
-#### _This website serves as a portfolio of webpages created so far at Epicodus!._
+#### _A portfolio website demonstrating new skills in HTML and CSS!_
+
 
 ## Technologies Used
 
@@ -12,11 +13,13 @@
 
 ## Description
 
-_This website serves as a portfolio of webpages created so far at Epicodus! User should note that portfolio examples are incomplete and buggy, but hopefully this independent project won't be!_
+_This website serves as a portfolio of webpages created so far at Epicodus and talks about some of the jobs I've had. User should note that portfolio examples are incomplete and buggy, but hopefully this independent project won't be!_
 
 ## Setup/Installation Requirements
 
-* This webpage shouldn't require any setup.
+* Clone this repository to your desktop.
+* Navigate to the top level of the directory.
+* Open index.html in your browser.
 
 ## Known Bugs
 
