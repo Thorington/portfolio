@@ -34,9 +34,9 @@ nav a:link, nav a:visited, nav a:hover, nav a:active {
   left: 0;
 }
 
-.portfolio {
+.main {
   margin-left: 25%;
-  max-width: 100%;
+  max-width: 75%;
   text-align: left;
   height: auto;
   width: auto\9; 
@@ -60,4 +60,13 @@ ul {
   padding: 10px;
   border-width: 10px;
   box-sizing: border-box;
+}
+
+p.indent {
+  margin-left: 25%;
+  max-width: 50%;
+  text-align: left;
+  height: auto;
+  width: auto\9; 
+  position: relative;
 }
