@@ -6,6 +6,10 @@ body {
   font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
 
+h1, h2, h3{
+  color: hotpink;
+}
+
 nav a:link, nav a:visited, nav a:hover, nav a:active {
   color: hotpink;
   background-color:aliceblue;
@@ -74,6 +78,7 @@ p.indent {
   width: 25%;
   float: left;
   padding: 10px;
+  padding-bottom: 50px;
   margin: 10px;
   border: solid aliceblue;
   border-width: 5px;
