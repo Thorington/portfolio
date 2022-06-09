@@ -13,7 +13,7 @@
 
 ## Description
 
-_This website serves as a portfolio of webpages created so far at Epicodus and talks about some of the jobs I've had. User should note that portfolio examples are incomplete and buggy, but hopefully this independent project won't be!_
+_This website serves as a portfolio of webpages created so far at Epicodus. User should note that portfolio examples are incomplete and buggy, but hopefully this independent project won't be!_
 
 ## Setup/Installation Requirements
 
